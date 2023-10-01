@@ -1,0 +1,57 @@
+/* CSS for the Shoe Store - Product Page */
+
+/* Center the main container */
+.container {
+    margin: auto;
+  }
+  
+  /* Style the thumbnail images */
+.thumbnail img {
+    width: 100%;
+    height: auto;
+  }
+  
+  /* Style the buttons */
+.btn {
+    margin-right: 10px;
+ }
+  
+  /* Style the panel */
+.panel {
+    margin-top: 20px;
+  }
+  
+  /* Style the form elements */
+.form-control {
+    width: 100%;
+    padding: 10px;
+    border-radius: 0;
+    border: 1px solid #ccc;
+  }
+  
+textarea.form-control {
+    resize: vertical;
+  }
+  
+  /* Style the submit button */
+button[type="submit"] {
+    margin-top: 10px;
+    padding: 10px;
+    border-radius: 0;
+    background-color: #007bff;
+    border: none;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  /* Style the headings */
+h2, h3 {
+    margin-top: 0;
+  }
+  
+  /* Style the product description */
+p {
+    margin-bottom: 10px;
+  }
+  
