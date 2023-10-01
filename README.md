@@ -1,1 +1,1 @@
-# https---github.com-Fizzz08-Product-info-page-using-SCSS
+# https://github.com/Product-info-page-using-SCSS
