@@ -1,1 +1,1 @@
-# https://github.com/Product-info-page-using-SCSS-master
+# https://github.com/ramnathnayak07/Product-info-page-using-SCSS-master/index.html
